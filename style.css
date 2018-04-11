@@ -8,11 +8,20 @@
 
 }
 
+@media screen and (min-width: 500px){
+  .col{
+    float: left;
+    width: 50vw;
+  }
+}
 
+@media screen and (min-width: 1000px){
+    
+}
 /* What does in line styled css mean?  */
 /* an example of it done well and it not done, showing why one is superior */
 /* study materialize further  */
-/* winning game  */
+/* winning game- paper airplane nonsense game- one staff member beat 3 students with his awesome plane. 2 students he eliminated the third got 25$. how is that fair?  */
 /* algo issues */
 /* A self-dividing number is a number that is divisible by every digit it contains ** that has no remainder */
 /* Given an array of length N, with integer values between 0 and N (not including 0 or N), return any integer that appears in the array more than once, i.e. */
@@ -28,3 +37,8 @@ All root-to-leaf paths are: ["1->2->5", "1->3"] */
 
 /* **does not explain how multiple children should be represented  */
 /* questions asked that remain unanswered- re whiteboard handwriting example or meaning of styled css  */
+/* time estimates being very off (finished with outside activities before they were scheduled to begin) */
+/* candy everywhere. Super. */
+/* make sure fullstack is using flex wrap( p sure it is) */
+/* how to minify */
+/* Responsive design- mobile first!!! */
